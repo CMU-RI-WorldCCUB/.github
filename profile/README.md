@@ -1,53 +1,54 @@
 <div align="center">
 <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:521cf2,100:42c330&height=200&section=header&text=WorldCCUB&fontSize=90" /></div>
-<div align="center">
-👋 커밋 방법 👋
-  </div>
-<br>
-
-# 👋 WorldCCUB?
+# 👋 WorldCCUB
 
 ## Team
 
-| 이름                                   | Part       | Email                   |
-| -------------------------------------- | ---------- | ----------------------- |
-| [서희찬](https://github.com/seochan99) | Web/Server | <gmlcks00513@gmail.com> |
-| [김미소](https://github.com/MeMe4834)  | Ai         | <smile4834@gmail.com>   |
+| Name                                 | Part       | Email                   |
+| ------------------------------------ | ---------- | ----------------------- |
+| [Heechan Seo](https://github.com/seochan99) | Web/Server | <gmlcks00513@gmail.com> |
+| [Miso Kim](https://github.com/MeMe4834)  | AI         | <smile4834@gmail.com>   |
 
 # 🛠️ Tech
 
-## FrameWork
+## Framework
 
-## 2. 프로젝트 소개
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) TypeScript
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) Next.js
+- ![Vision AI](https://img.shields.io/badge/VisionAI-4285F4?style=for-the-badge&logo=google&logoColor=white) VisionAI
 
-> 준비중입니다.
+
+## Project Introduction
+
+WorldCCUB (World Cultural Content Understanding and Building) is a project aimed at enhancing the accessibility, diversity, and quality of cultural data from around the world. We are developing a web service to collect, publish, and utilize high-quality datasets that reflect cultural diversity, enabling the creation of unbiased, fair AI models and promoting global understanding and collaboration.
 
 ## 🎯 Commit Convention 1
 
--   feat : 새로운 기능 추가
--   fix : 버그 수정
--   docs : 문서 수정
--   style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
--   refactor: 코드 리펙토링
--   test: 테스트 코드, 리펙토링 테스트 코드 추가
--   chore : 빌드 업무 수정, 패키지 매니저 수정
+-   feat: Add new feature
+-   fix: Bug fix
+-   docs: Documentation changes
+-   style: Code formatting, missing semicolons, etc. (no code changes)
+-   refactor: Code refactoring
+-   test: Add or refactor tests (no production code changes)
+-   chore: Update build tasks, package manager configs, etc.
 
-## 💡 Commit Convetion 2
+## 💡 Commit Convention 2
 
-| 아이콘 | 코드                       | 설명                     |
-| ------ | -------------------------- | ------------------------ |
-| 🎨     | :art                       | 코드의 구조/형태 개선    |
-| ⚡️    | :zap                       | 성능 개선                |
-| 🔥     | :fire                      | 코드/파일 삭제           |
-| 🐛     | :bug                       | 버그 수정                |
-| 🚑     | :ambulance                 | 긴급 수정                |
-| ✨     | :sparkles                  | 새 기능                  |
-| 💄     | :lipstick                  | UI/스타일 파일 추가/수정 |
-| ⏪     | :rewind                    | 변경 내용 되돌리기       |
-| 🔀     | :twisted_rightwards_arrows | 브랜치 합병              |
-| 💡     | :bulb                      | 주석 추가/수정           |
-| 🗃      | :card_file_box             | 데이버베이스 관련 수정   |
+| Icon | Code                        | Description              |
+| ---- | --------------------------- | ------------------------ |
+| 🎨   | :art                        | Improve structure/format |
+| ⚡️  | :zap                        | Improve performance      |
+| 🔥   | :fire                       | Remove code/files        |
+| 🐛   | :bug                        | Fix a bug                |
+| 🚑   | :ambulance                  | Critical hotfix          |
+| ✨   | :sparkles                   | Introduce new features   |
+| 💄   | :lipstick                   | Add/update UI styles     |
+| ⏪   | :rewind                     | Revert changes           |
+| 🔀   | :twisted_rightwards_arrows  | Merge branches           |
+| 💡   | :bulb                       | Add/update comments      |
+| 🗃   | :card_file_box              | Update database related  |
 
-### 예시
+### Example
 
-`✨Feat: 로그인 기능 추가`
+`✨Feat: Add login functionality`
