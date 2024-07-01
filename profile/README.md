@@ -7,7 +7,7 @@
 
 | Name                                 | Part       | Email                   |
 | ------------------------------------ | ---------- | ----------------------- |
-| [Heechan Seo](https://github.com/seochan99) | Web/Server | <gmlcks00513@gmail.com> |
+| [Huichan Seo](https://github.com/seochan99) | Web/Server | <gmlcks00513@gmail.com> |
 | [Miso Kim](https://github.com/MeMe4834)  | AI         | <smile4834@gmail.com>   |
 
 # 🛠️ Tech
