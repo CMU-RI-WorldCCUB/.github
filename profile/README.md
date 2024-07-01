@@ -1,5 +1,6 @@
 <div align="center">
 <div><img src="https://capsule-render.vercel.app/api?type=waving&color=0:521cf2,100:42c330&height=200&section=header&text=WorldCCUB&fontSize=90" /></div>
+
 # 👋 WorldCCUB
 
 ## Team
